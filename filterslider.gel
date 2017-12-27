@@ -1,0 +1,6 @@
+menuitem "Hi Pass Lo Pass Control";
+
+slider FilterControl(0,1,1,1, left_slider)
+{
+	filterslider = left_slider;
+}

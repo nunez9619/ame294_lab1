@@ -1,0 +1,1 @@
+"./L138_LCDK_aic3106_init.obj" "./stereo.obj" "./vectors_intr.obj" "../linker_dsp.cmd" -l"C:\omapl138\bsl\lib\enmomapl138_bsl.lib" 
